@@ -1,0 +1,56 @@
+nehal@DESKTOP-IBLD536:/mnt/c/Users/ASUS/devops-task$ history
+    1  sudo_root
+    2  sudo wsl
+    3  sudo apt update && sudo apt upgrade -y
+    4  sudo wsl
+    5  cat os
+    6  cat /etc/os-realse
+    7  cat /etc/os-relese
+    8  cat /etc/os-release
+    9  touch task1
+   10  git status
+   11  git init
+   12  git status
+   13  git add.
+   14  git add .
+   15  git status
+   16  git commit -m "task completed"
+   17  git config --list
+   18  git branch -a
+   19  git remote add origin https://github.com/nehal-kadabi/devops-task.git
+   20  git branch -M main
+   21  git push -u origin main
+   22  git push
+   23  git branch
+   24  git branch -a
+   25  git status
+   26  git commit -m "completed"
+   27  git log -p
+   28  git branch -a
+   29  git push -u
+   30  git push -u origin
+   31  git push -u origin main
+   32  git remote add origin https://github.com/nehal-kadabi/devops-task1.git
+   33  git branch
+   34  git branch staging
+   35  git checkout staging
+   36  git branch -a
+   37  ls
+   38  vi task1
+   39  vi task
+   40  cat task
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit -m "final commit"
+   45  git push
+   46  git branch -a master main
+   47  git branch -M  master main
+   48  git branch -a
+   49  git switch main
+   50  git branch -a
+   51  git switch staging
+   52  git status
+   53  git push -u origin staging
+   54  history
+nehal@DESKTOP-IBLD536:/mnt/c/Users/ASUS/devops-task$ 
